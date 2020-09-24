@@ -13,7 +13,7 @@ const list = [
   {
     title: 'Redux',
     url: 'https://github.com/reactjs/redux',
-    author: 'Dan Abramov, Andrew Clarkson',
+    author: 'Dan Abramov, MASTER branch',
     num_comments: 2,
     points: 5,
     objectID: 1,
